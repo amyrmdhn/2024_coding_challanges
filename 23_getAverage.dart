@@ -1,5 +1,5 @@
 /**
- * Challange 22/366 (2024)
+ * Challange 23/366 (2024)
  * link: https://www.codewars.com/kata/55cbd4ba903825f7970000f5.
  * It's the academic year's end, fateful moment of your school report. 
  * The averages must be calculated. All the students come to you and 
